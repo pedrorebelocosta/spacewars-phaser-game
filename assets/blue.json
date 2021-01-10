@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "blue.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 968,
+				"h": 1595
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 640,
+						"h": 640
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 29,
+						"w": 482,
+						"h": 561
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 561
+					}
+				},
+				{
+					"filename": "5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 640,
+						"h": 640
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 29,
+						"w": 482,
+						"h": 561
+					},
+					"frame": {
+						"x": 1,
+						"y": 564,
+						"w": 482,
+						"h": 561
+					}
+				},
+				{
+					"filename": "2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 640,
+						"h": 640
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 29,
+						"w": 482,
+						"h": 549
+					},
+					"frame": {
+						"x": 485,
+						"y": 1,
+						"w": 482,
+						"h": 549
+					}
+				},
+				{
+					"filename": "1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 640,
+						"h": 640
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 29,
+						"w": 482,
+						"h": 523
+					},
+					"frame": {
+						"x": 485,
+						"y": 552,
+						"w": 482,
+						"h": 523
+					}
+				},
+				{
+					"filename": "3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 640,
+						"h": 640
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 29,
+						"w": 482,
+						"h": 517
+					},
+					"frame": {
+						"x": 485,
+						"y": 1077,
+						"w": 482,
+						"h": 517
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6c02440ee514a1ddb20f028b364d9b2f:3177271a87a2c5f1197e4cf4748a7b82:3bc406bf606ca499583546d1df4daf10$"
+	}
+}
